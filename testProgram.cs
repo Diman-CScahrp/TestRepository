@@ -4,9 +4,9 @@ public class Program
 	{
 		int a = 10;
 		a++;
-		
+
 		System.Console.WriteLine(a);
-		System.Console.WriteLine("Просто ничего ниделающая программа.");
+		System.Console.WriteLine("Хотя нет, эта программа хоть что то да делает!");
 		System.Console.ReadLine();
 	}
 }
